@@ -1,4 +1,4 @@
 git test 
 git push 
-git pull
-git fetch
+git v1
+git pl
